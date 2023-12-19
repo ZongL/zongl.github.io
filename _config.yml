@@ -214,7 +214,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: none
       author_profile: true
       share: true
       comments: true
@@ -232,7 +232,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: none
       author_profile: true
       share: true
       comment: true
@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: none
       author_profile: true
       share: true
 
