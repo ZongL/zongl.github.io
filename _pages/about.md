@@ -17,17 +17,20 @@ I like share my thoughts on web, check out my post on [Zhihu](https://www.zhihu.
 My work and research
 ======
 Now I am focusing on two projects.
-1. Pricerank [GO](https://pricerank.vercel.app/)
-2. Vehicle-signal-database [GO](https://vehicle-signal-database.vercel.app/)
+1. Pricerank [GO](https://pricerank.vercel.app/) (Start at 2024-02)
+2. Vehicle-signal-database [GO](https://vehicle-signal-database.vercel.app/) (Start at 2025-01)
 
 My background and history
 ======
-1. 
-1. 
-1. 
+1. Vehicle System Engineer ⭐⭐⭐
+1. Vehicle Software Engineer ⭐⭐⭐⭐⭐
+1. Vehicle Function Owner ⭐⭐
 
-My intellectual communities
+Promgramming Skill
 ======
+1. Simulink ⭐⭐⭐⭐⭐
+1. C ⭐⭐⭐
+1. Python ⭐⭐⭐
 
 
 
