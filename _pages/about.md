@@ -19,6 +19,7 @@ My work and research
 Now I am focusing on two projects.
 1. Pricerank [GO](https://pricerank.vercel.app/) (Start at 2024-02)
 2. Vehicle-signal-database [GO](https://vehicle-signal-database.vercel.app/) (Start at 2025-01)
+3. VehEeaVis [GO](https://zongl.github.io/VehEeaVis/) (Start at 2025-02-19): Vehicle EEA(Electrical/Electronic Architecture) Visible
 
 My background and history
 ======
