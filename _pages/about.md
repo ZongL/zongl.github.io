@@ -24,15 +24,15 @@ Now I am focusing on below projects.
 
 My background and history
 ======
-1. Vehicle System Engineer   ⭐⭐⭐
-1. Vehicle Software Engineer ⭐⭐⭐⭐⭐
-1. Vehicle Function Owner    ⭐⭐
+1.  Vehicle System Engineer   ⭐⭐⭐
+1.  Vehicle Software Engineer ⭐⭐⭐⭐⭐
+1.  Vehicle Function Owner    ⭐⭐
 
 Promgramming Skill
 ======
-1. Simulink ⭐⭐⭐⭐⭐
-1. C        ⭐⭐⭐
-1. Python   ⭐⭐⭐
+1.  Simulink ⭐⭐⭐⭐⭐
+1.  C        ⭐⭐⭐
+1.  Python   ⭐⭐⭐
 
 
 
