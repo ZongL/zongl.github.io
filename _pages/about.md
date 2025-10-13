@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer from China, now living in Beijing. I have a passion for coding and love to experiment with things. While I work for Didi, the opinions expressed on this blog are solely my own and do not reflect company policy in any way. 
+I am a Software Engineer from China, now living in Beijing. I have a passion for coding and love to experiment with things. The opinions expressed on this blog are solely my own and do not reflect company policy in any way. 
 
 These days, I mostly write C and Python with a sprinkling of TypeScript for work.
 
