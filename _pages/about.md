@@ -23,6 +23,7 @@ Now I am focusing on below projects.
 4. VehEeaVis [GO](https://zongl.github.io/VehEeaVis-Demo/) (Start at 2025-02-19): Vehicle EEA(Electrical/Electronic Architecture) Visible
 5. SomeIP_Web_App [GO](https://github.com/ZongL/SomeIP_Web_App/) (Start at 2025-04-09)
 6. Swcmaker [GO](http://swcmaker.cc.cd/) (Start at 2026-01-09): Autosar tool for swc arxml generation
+7. linker-map-statistics [GO](https://zongl.github.io/linker-map-statistics/) (Start at 2025-12-04)
 
 My background and history
 ======
