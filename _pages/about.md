@@ -26,7 +26,8 @@ Now I am focusing on below projects.
 7. linker-map-statistics [GO](https://zongl.github.io/linker-map-statistics/) (Start at 2025-12-04)
 8. BLF_Web_Viewer [GO](https://zongl.github.io/BLF_Web_Viewer/) (Start at 2026-02-04)
 9. DotaBP [GO](https://dotabp.us.ci/) (Start at 2026-04-03)
-
+10.LIANG-GPT [GO](https://zongl.github.io/LIANG-GPT-Web/) (Start at 2026-06-04): 基于 Transformer 架构的 Dota 2 职业比赛 Ban/Pick 序列预测模型
+   
 My background and history
 ======
 1.  Vehicle System Engineer   ⭐⭐⭐
